@@ -21,9 +21,3 @@ Aqui estão algumas das tecnologias que mais utilizo:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=[Miguel-Lessa]&show_icons=true&theme=dark&count_private=true)
-
----
-
