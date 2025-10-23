@@ -1,4 +1,4 @@
-Graduando de Engenharia de Software pela PUC Minas, eu gosto muito de Linux, musician on my free time, gerência de projetos e ciência de dados.
+Graduando de Engenharia de Software pela PUC Minas
 
 ---
 
