@@ -1,23 +1,15 @@
-# Olá, eu sou Miguel Lessa! 
-
-
-Eu sou um graduando de Engenharia de Software pela PUC Minas, apaixonado por Linux, gerência de projetos e ciência de dados.
-
+Graduando de Engenharia de Software pela PUC Minas, eu gosto muito de Linux, musician on my free time, gerência de projetos e ciência de dados.
 
 ---
-
-## 🛠️ Tecnologias e Ferramentas:
 
 Aqui estão algumas das tecnologias que mais utilizo:
 
-- Linguagens de Programação: `C`, `Java`, `HTML`, `Rust`, `SQL`, `Swift`
-- Frameworks e Bibliotecas: `Rails`, `Spring`
-- Ferramentas e Plataformas: `Git`, `GitHub`, `Docker`, `AWS`, `VS Codium`
+- Linguagens de Programação: `C`, `Java`, `HTML`, `Rust`, `SQL`, `Swift`, `Typescript`
+- Frameworks e Bibliotecas: `Rails`, `Spring`, `Nest.js`
+- Ferramentas e Plataformas: `Git`, `GitHub`, `Docker`, `AWS`, `VS Code`
 - Banco de Dados: `PostgreSQL`, `SQLite`
-- Testes: `Jest`, `Mocha`, `PyTest`
+- Testes: `Jest`
 
 ---
 
-
----
 
