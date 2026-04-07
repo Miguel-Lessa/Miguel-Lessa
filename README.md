@@ -1,15 +1,7 @@
-Graduando de Engenharia de Software pela PUC Minas
-
----
-
-Aqui estão algumas das tecnologias que mais utilizo:
-
-- Linguagens de Programação: `C`, `Java`, `HTML`, `Rust`, `SQL`, `Swift`, `Typescript`
-- Frameworks e Bibliotecas: `Rails`, `Spring`, `Nest.js`
-- Ferramentas e Plataformas: `Git`, `GitHub`, `Docker`, `AWS`, `VS Code`
-- Banco de Dados: `PostgreSQL`, `SQLite`
-- Testes: `Jest`
-
----
-
-
+```
+   ________   ________  ________  ____ ___      ________  ________   _______     ________   ________  ________  ________   _______ 
+  /        \ /        \/        \/    /   \    /        \/    /   \_/       \   /        \ /        \/        \/        \_/       \
+ /        _/_/       //         /         /   /         /         /         /  /        _/_/       //         /         /         /
+/-        //         /       --/        _/   /         /         /         /   /       / /         /        _/        _/         / 
+\________/ \________/\________/\____/___/    \___/____/\__/_____/\________/    \______/  \________/\____/___/\________/\________/  
+```
